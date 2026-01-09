@@ -69,7 +69,7 @@ You can use the AWS CLI to download the dataset. AWS keys should have been provi
 export AWS_ACCESS_KEY_ID=<your-access-key-id>
 export AWS_SECRET_ACCESS_KEY=<your-secret-access-key>
 
-# Download the dataset to the `trace-clothesfolding-10min-sample/data` directory
+# Download the dataset to the `trace-painting-5min-sample/data` directory
 aws s3 cp s3://trace-datasets/trace-painting-5min-sample/1.0/ ./data --recursive
 ```
 
