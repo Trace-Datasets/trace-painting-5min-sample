@@ -1,0 +1,5194 @@
+{
+  "activities": {
+    "topic": "/ml2/narrations/activities",
+    "nouns": [
+      {
+        "id": "noun.ingredients",
+        "label": "ingredients",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123462166187085,
+            "end_ns": 1767123509008187085,
+            "narration": "Mix ingredients into paste inside mud pan"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278171926340,
+            "end_ns": 1767124353175926340,
+            "narration": "Mix ingredients into paste inside mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126057173618768,
+            "end_ns": 1767126113160618768,
+            "narration": "Mix ingredients into paste inside mud pan"
+          }
+        ]
+      },
+      {
+        "id": "noun.paint",
+        "label": "paint",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079157918218,
+            "end_ns": 1767122123155918218,
+            "narration": "Gather paint onto brush"
+          }
+        ]
+      },
+      {
+        "id": "noun.paste",
+        "label": "paste",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509008187085,
+            "end_ns": 1767123537180187085,
+            "narration": "Apply paste to ceiling with wide body scraper"
+          }
+        ]
+      },
+      {
+        "id": "noun.sheet",
+        "label": "sheet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371050176389385,
+            "end_ns": 1767371066176389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371066176389385,
+            "end_ns": 1767371081843389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371081843389385,
+            "end_ns": 1767371089232389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089232389385,
+            "end_ns": 1767371102196389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          }
+        ]
+      },
+      {
+        "id": "noun.tape",
+        "label": "tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370813194000707,
+            "end_ns": 1767370848196000707,
+            "narration": "Stick loops of tape onto tray"
+          }
+        ]
+      }
+    ],
+    "verbs": [
+      {
+        "id": "verb.apply",
+        "label": "apply",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509008187085,
+            "end_ns": 1767123537180187085,
+            "narration": "Apply paste to ceiling with wide body scraper"
+          }
+        ]
+      },
+      {
+        "id": "verb.gather",
+        "label": "gather",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079157918218,
+            "end_ns": 1767122123155918218,
+            "narration": "Gather paint onto brush"
+          }
+        ]
+      },
+      {
+        "id": "verb.mix",
+        "label": "mix",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123462166187085,
+            "end_ns": 1767123509008187085,
+            "narration": "Mix ingredients into paste inside mud pan"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278171926340,
+            "end_ns": 1767124353175926340,
+            "narration": "Mix ingredients into paste inside mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126057173618768,
+            "end_ns": 1767126113160618768,
+            "narration": "Mix ingredients into paste inside mud pan"
+          }
+        ]
+      },
+      {
+        "id": "verb.secure",
+        "label": "secure",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371050176389385,
+            "end_ns": 1767371066176389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371066176389385,
+            "end_ns": 1767371081843389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371081843389385,
+            "end_ns": 1767371089232389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089232389385,
+            "end_ns": 1767371102196389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          }
+        ]
+      },
+      {
+        "id": "verb.stick",
+        "label": "stick",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370813194000707,
+            "end_ns": 1767370848196000707,
+            "narration": "Stick loops of tape onto tray"
+          }
+        ]
+      }
+    ],
+    "noun_verb_pairs": [
+      {
+        "id": "pair.apply.paste",
+        "label": "apply paste",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509008187085,
+            "end_ns": 1767123537180187085,
+            "narration": "Apply paste to ceiling with wide body scraper"
+          }
+        ],
+        "verb": "verb.apply",
+        "noun": "noun.paste"
+      },
+      {
+        "id": "pair.gather.paint",
+        "label": "gather paint",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079157918218,
+            "end_ns": 1767122123155918218,
+            "narration": "Gather paint onto brush"
+          }
+        ],
+        "verb": "verb.gather",
+        "noun": "noun.paint"
+      },
+      {
+        "id": "pair.mix.ingredients",
+        "label": "mix ingredients",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123462166187085,
+            "end_ns": 1767123509008187085,
+            "narration": "Mix ingredients into paste inside mud pan"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278171926340,
+            "end_ns": 1767124353175926340,
+            "narration": "Mix ingredients into paste inside mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126057173618768,
+            "end_ns": 1767126113160618768,
+            "narration": "Mix ingredients into paste inside mud pan"
+          }
+        ],
+        "verb": "verb.mix",
+        "noun": "noun.ingredients"
+      },
+      {
+        "id": "pair.secure.sheet",
+        "label": "secure sheet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371050176389385,
+            "end_ns": 1767371066176389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371066176389385,
+            "end_ns": 1767371081843389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371081843389385,
+            "end_ns": 1767371089232389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089232389385,
+            "end_ns": 1767371102196389385,
+            "narration": "Secure plastic sheet against tray using a piece of tape"
+          }
+        ],
+        "verb": "verb.secure",
+        "noun": "noun.sheet"
+      },
+      {
+        "id": "pair.stick.tape",
+        "label": "stick tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370813194000707,
+            "end_ns": 1767370848196000707,
+            "narration": "Stick loops of tape onto tray"
+          }
+        ],
+        "verb": "verb.stick",
+        "noun": "noun.tape"
+      }
+    ]
+  },
+  "actions": {
+    "topic": "/ml2/narrations/actions",
+    "nouns": [
+      {
+        "id": "noun.brush",
+        "label": "brush",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079763918218,
+            "end_ns": 1767122080291918218,
+            "narration": "Pick up paint brush with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122080291918218,
+            "end_ns": 1767122082004918218,
+            "narration": "Dip paint brush into paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122099191918218,
+            "end_ns": 1767122100343918218,
+            "narration": "Wipe paint brush against edge of can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122100343918218,
+            "end_ns": 1767122101826918218,
+            "narration": "Wipe other side of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122101826918218,
+            "end_ns": 1767122102742918218,
+            "narration": "Wipe edge of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122102742918218,
+            "end_ns": 1767122104013918218,
+            "narration": "Wipe other edge of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122105776918218,
+            "end_ns": 1767122106649918218,
+            "narration": "Wipe bottom of paint brush against rim of paint can using right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122106649918218,
+            "end_ns": 1767122107810918218,
+            "narration": "Wipe side of paint brush against other paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122109962918218,
+            "end_ns": 1767122111971918218,
+            "narration": "Wipe side of paint brush against edge of other paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122111971918218,
+            "end_ns": 1767122113038918218,
+            "narration": "Wipe edge of paint brush against edge of the same paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122113038918218,
+            "end_ns": 1767122113759918218,
+            "narration": "Wipe other edge of paint brush against paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122115598918218,
+            "end_ns": 1767122117352918218,
+            "narration": "Wipe side of paint brush against edge of paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122119471918218,
+            "end_ns": 1767122121106918218,
+            "narration": "Wipe side of paint brush against edge of paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122121106918218,
+            "end_ns": 1767122122117918218,
+            "narration": "Wipe edge of paint brush against edge of paint can"
+          }
+        ]
+      },
+      {
+        "id": "noun.compound",
+        "label": "compound",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123468246187085,
+            "end_ns": 1767123472286187085,
+            "narration": "Mix dry compound and water inside mud pan with scraper using right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123484256187085,
+            "end_ns": 1767123489706187085,
+            "narration": "Mix dry compound and water inside mud pan using scraper with right hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.contents",
+        "label": "contents",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124295641926340,
+            "end_ns": 1767124297401926340,
+            "narration": "Push mud pan contents to one side of the pan with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126101183618768,
+            "end_ns": 1767126103443618768,
+            "narration": "Scrape mud pan contents from sides toward center with scraper using right hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.faucet",
+        "label": "faucet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467006187085,
+            "end_ns": 1767123467406187085,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467406187085,
+            "end_ns": 1767123467836187085,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123482896187085,
+            "end_ns": 1767123483776187085,
+            "narration": "Turn on faucet using handle with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123483786187085,
+            "end_ns": 1767123484256187085,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124280801926340,
+            "end_ns": 1767124281701926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124281701926340,
+            "end_ns": 1767124282461926340,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124282461926340,
+            "end_ns": 1767124282741926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124299991926340,
+            "end_ns": 1767124300831926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124300831926340,
+            "end_ns": 1767124301241926340,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124301251926340,
+            "end_ns": 1767124301821926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124325471926340,
+            "end_ns": 1767124326291926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124326291926340,
+            "end_ns": 1767124327061926340,
+            "narration": "Turn on faucet slightly with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327061926340,
+            "end_ns": 1767124327431926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126068993618768,
+            "end_ns": 1767126070143618768,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070143618768,
+            "end_ns": 1767126070433618768,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070433618768,
+            "end_ns": 1767126070753618768,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126090063618768,
+            "end_ns": 1767126091053618768,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126091053618768,
+            "end_ns": 1767126092313618768,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126092313618768,
+            "end_ns": 1767126092773618768,
+            "narration": "Turn off faucet with left hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.hand",
+        "label": "hand",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370814394000707,
+            "end_ns": 1767370815139000707,
+            "narration": "Move left hand toward tape roll on right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370817957000707,
+            "end_ns": 1767370818416000707,
+            "narration": "Remove right hand from loop of tape"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370820296000707,
+            "end_ns": 1767370822314000707,
+            "narration": "Unstick left hand from loop of tape with left hand while keeping the loop stuck against the paint tray"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370822314000707,
+            "end_ns": 1767370822831000707,
+            "narration": "Move left hand toward tape roll on right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370825283000707,
+            "end_ns": 1767370825846000707,
+            "narration": "Unstick right hand from loop of tape"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370828659000707,
+            "end_ns": 1767370829397000707,
+            "narration": "Unstick left hand from tape with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370829397000707,
+            "end_ns": 1767370829948000707,
+            "narration": "Move left hand toward tape roll in right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370835243000707,
+            "end_ns": 1767370836431000707,
+            "narration": "Move left hand toward roll of tape in right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370841874000707,
+            "end_ns": 1767370842726000707,
+            "narration": "Move left hand toward roll of tape"
+          }
+        ]
+      },
+      {
+        "id": "noun.handle",
+        "label": "handle",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123466086187085,
+            "end_ns": 1767123467006187085,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123482126187085,
+            "end_ns": 1767123482896187085,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneat faucet with left hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.head",
+        "label": "head",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123521996187085,
+            "end_ns": 1767123522536187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123525396187085,
+            "end_ns": 1767123526306187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123528816187085,
+            "end_ns": 1767123529476187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          }
+        ]
+      },
+      {
+        "id": "noun.paint",
+        "label": "paint",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122082004918218,
+            "end_ns": 1767122085216918218,
+            "narration": "Pour paint from from paint can in left hand into another paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122085216918218,
+            "end_ns": 1767122099191918218,
+            "narration": "Continu pouring paint by using paint brush in right hand to push contents from can in left hand into other can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122107810918218,
+            "end_ns": 1767122109962918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122113759918218,
+            "end_ns": 1767122115598918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122117352918218,
+            "end_ns": 1767122119471918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can"
+          }
+        ]
+      },
+      {
+        "id": "noun.pan",
+        "label": "pan",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509766187085,
+            "end_ns": 1767123510666187085,
+            "narration": "Grip mud pan with both hands"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123510666187085,
+            "end_ns": 1767123511566187085,
+            "narration": "Adjust orientation of mud pan with both hands"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278171926340,
+            "end_ns": 1767124278941926340,
+            "narration": "Turn head to face mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126057183618768,
+            "end_ns": 1767126059083618768,
+            "narration": "Turn right to face mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126059083618768,
+            "end_ns": 1767126059813618768,
+            "narration": "Pick up mud pan with left hand while gripping scraper handle with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126093193618768,
+            "end_ns": 1767126093993618768,
+            "narration": "Position mud pan directly above countertop with left hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.paste",
+        "label": "paste",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123489706187085,
+            "end_ns": 1767123491406187085,
+            "narration": "Push paste against bottom of mud pan using scraper with right hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.roll",
+        "label": "roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371051106389385,
+            "end_ns": 1767371052385389385,
+            "narration": "Move left hand toward tape roll in right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371066733389384,
+            "end_ns": 1767371067049389385,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371067049389385,
+            "end_ns": 1767371067758389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068575389385,
+            "end_ns": 1767371068967389385,
+            "narration": "Place tape roll onto floor with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371082505389385,
+            "end_ns": 1767371083125389384,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371083125389384,
+            "end_ns": 1767371083676389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371084701389385,
+            "end_ns": 1767371085030389385,
+            "narration": "Place tape roll onto floor with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089935389385,
+            "end_ns": 1767371090999389385,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371090999389385,
+            "end_ns": 1767371091796389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371092954389385,
+            "end_ns": 1767371093239389385,
+            "narration": "Place tape roll onto floor with right hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.scraper",
+        "label": "scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123462166187085,
+            "end_ns": 1767123466086187085,
+            "narration": "Move scraper back and forth inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467836187085,
+            "end_ns": 1767123468246187085,
+            "narration": "Grip scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123472286187085,
+            "end_ns": 1767123473216187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan using right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123473216187085,
+            "end_ns": 1767123474626187085,
+            "narration": "Turn scraper back to original orientation and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123474626187085,
+            "end_ns": 1767123476126187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123476126187085,
+            "end_ns": 1767123478286187085,
+            "narration": "Turn scraper back to original orientation and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123478286187085,
+            "end_ns": 1767123482126187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123491406187085,
+            "end_ns": 1767123504376187085,
+            "narration": "Move scraper back and forth inside mud pan to continue incorporating dry compound and water into paste with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123504376187085,
+            "end_ns": 1767123505336187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123505336187085,
+            "end_ns": 1767123506656187085,
+            "narration": "Wipe other side of scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123506656187085,
+            "end_ns": 1767123507126187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507126187085,
+            "end_ns": 1767123507606187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507606187085,
+            "end_ns": 1767123507856187085,
+            "narration": "Flip scraper 180 degres with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507856187085,
+            "end_ns": 1767123508346187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123508346187085,
+            "end_ns": 1767123509216187085,
+            "narration": "Place scraper on countertop with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509216187085,
+            "end_ns": 1767123509766187085,
+            "narration": "Pick up wide body scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123511566187085,
+            "end_ns": 1767123512806187085,
+            "narration": "Place wide body scraper along inside wall of mud pan"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123512806187085,
+            "end_ns": 1767123514486187085,
+            "narration": "Slide wide body scraper through mud pan to gather paste onto scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123514486187085,
+            "end_ns": 1767123515816187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123515816187085,
+            "end_ns": 1767123516576187085,
+            "narration": "Slide scraper along edge of mud pan to deposit paste back into mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123516576187085,
+            "end_ns": 1767123517616187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123517616187085,
+            "end_ns": 1767123518266187085,
+            "narration": "Slide scraper along paste in mud pan to gather paste onto scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123518266187085,
+            "end_ns": 1767123518656187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123518656187085,
+            "end_ns": 1767123520286187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123520286187085,
+            "end_ns": 1767123521366187085,
+            "narration": "Slide scraper along patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123521366187085,
+            "end_ns": 1767123521996187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123522536187085,
+            "end_ns": 1767123523246187085,
+            "narration": "Lift scraper toward ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123523246187085,
+            "end_ns": 1767123524766187085,
+            "narration": "Slide scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123524766187085,
+            "end_ns": 1767123525396187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123526306187085,
+            "end_ns": 1767123526646187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123526646187085,
+            "end_ns": 1767123527836187085,
+            "narration": "Slide scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123527836187085,
+            "end_ns": 1767123528816187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123529476187085,
+            "end_ns": 1767123532166187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123532166187085,
+            "end_ns": 1767123532766187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123532766187085,
+            "end_ns": 1767123533896187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123533896187085,
+            "end_ns": 1767123534206187085,
+            "narration": "Turn scraper 90 degrees while parallel to ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123534206187085,
+            "end_ns": 1767123534876187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123534876187085,
+            "end_ns": 1767123535276187085,
+            "narration": "Turn scraper back 90 degrees while parallel to ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123535276187085,
+            "end_ns": 1767123536466187085,
+            "narration": "Move scraper along ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123536466187085,
+            "end_ns": 1767123537180187085,
+            "narration": "Turn scraper 180 degrees while parallel to the ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079162918218,
+            "end_ns": 1767122079763918218,
+            "narration": "Place paint scraper on can with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278941926340,
+            "end_ns": 1767124280801926340,
+            "narration": "Move scraper back and forth in mud pan to mix contents with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124282751926340,
+            "end_ns": 1767124283451926340,
+            "narration": "Grip scraper with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124283451926340,
+            "end_ns": 1767124295641926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124297401926340,
+            "end_ns": 1767124299981926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124301821926340,
+            "end_ns": 1767124302451926340,
+            "narration": "Grip scraper handle with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124302451926340,
+            "end_ns": 1767124316161926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124316161926340,
+            "end_ns": 1767124320751926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124320751926340,
+            "end_ns": 1767124325471926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327431926340,
+            "end_ns": 1767124327971926340,
+            "narration": "Grip scraper handle with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327971926340,
+            "end_ns": 1767124335241926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124335241926340,
+            "end_ns": 1767124336961926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124336961926340,
+            "end_ns": 1767124346891926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124346891926340,
+            "end_ns": 1767124348191926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124348191926340,
+            "end_ns": 1767124352541926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124352541926340,
+            "end_ns": 1767124353175926340,
+            "narration": "Wipe scraper against edge of mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126059813618768,
+            "end_ns": 1767126068993618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070753618768,
+            "end_ns": 1767126071373618768,
+            "narration": "Grip scraper handle with right hand while moving mud pan away from faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126071373618768,
+            "end_ns": 1767126090063618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents thoroughly"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126092773618768,
+            "end_ns": 1767126093193618768,
+            "narration": "Grip scraper handle with right hand while moving mud pan away from faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126093993618768,
+            "end_ns": 1767126101183618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126103443618768,
+            "end_ns": 1767126113160618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          }
+        ]
+      },
+      {
+        "id": "noun.sheet",
+        "label": "sheet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371050182389385,
+            "end_ns": 1767371051106389385,
+            "narration": "Press sheet of plastic against top right side of tray with left hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.tape",
+        "label": "tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371052385389385,
+            "end_ns": 1767371053739389385,
+            "narration": "Unroll about 12 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371053739389385,
+            "end_ns": 1767371054132389385,
+            "narration": "Tear 12 inches of tape from tape roll with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371054132389385,
+            "end_ns": 1767371055049389385,
+            "narration": "Hold ends of piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371055049389385,
+            "end_ns": 1767371055992389385,
+            "narration": "Let go of right end of tape with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371055992389385,
+            "end_ns": 1767371056556389385,
+            "narration": "Hold tape with with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371056556389385,
+            "end_ns": 1767371057530389385,
+            "narration": "Move left hand away from piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371057530389385,
+            "end_ns": 1767371058094389385,
+            "narration": "Hold top end of piece of tape with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371058094389385,
+            "end_ns": 1767371058885389385,
+            "narration": "Move piece of tape toward right side of tray while shifting right hand toward bottom end of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371058885389385,
+            "end_ns": 1767371060404389385,
+            "narration": "Press tape against right wall of tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371060404389385,
+            "end_ns": 1767371061100389385,
+            "narration": "Press top end of tape against plastic with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371061100389385,
+            "end_ns": 1767371061752389385,
+            "narration": "Press middle of tape against plastic with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371061752389385,
+            "end_ns": 1767371062784389385,
+            "narration": "Slide both hands toward bottom end of tape while pressing against plastic to stick the tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371062784389385,
+            "end_ns": 1767371063087389385,
+            "narration": "Press loose bottom side of tape against top of tray with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371063087389385,
+            "end_ns": 1767371065138389385,
+            "narration": "Slide left hand between top and bottom of tape to stick it securely"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371067758389385,
+            "end_ns": 1767371068252389385,
+            "narration": "Unroll about 8 inches of tape with left hand while holding tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068252389385,
+            "end_ns": 1767371068575389385,
+            "narration": "Tear the unrolled portion of the tape away from the roll with the left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068967389385,
+            "end_ns": 1767371069442389385,
+            "narration": "Hold bottom end of tape with right hand while holding top end with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371069442389385,
+            "end_ns": 1767371070803389385,
+            "narration": "Move tape toward tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371070803389385,
+            "end_ns": 1767371072448389385,
+            "narration": "Press tape against top right wall of tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371072448389385,
+            "end_ns": 1767371073214389385,
+            "narration": "Press bottom side of tape over edge of tray with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371073214389385,
+            "end_ns": 1767371074220389385,
+            "narration": "Slide right hand upward along tape to stick it to surface"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371074220389385,
+            "end_ns": 1767371074562389385,
+            "narration": "Attempt to stick top end of tape against surface underneath with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371074562389385,
+            "end_ns": 1767371075625389385,
+            "narration": "Press top end of tape against surface underneath with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371075625389385,
+            "end_ns": 1767371076296389385,
+            "narration": "Slide right hand downward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371076296389385,
+            "end_ns": 1767371077049389385,
+            "narration": "Slide right hand upward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371077049389385,
+            "end_ns": 1767371077967389385,
+            "narration": "Press top of tape against and over the edge of the top right side of the tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371077967389385,
+            "end_ns": 1767371079043389385,
+            "narration": "Slide right hand downward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371079043389385,
+            "end_ns": 1767371079480389385,
+            "narration": "Press left hand against top of tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371079480389385,
+            "end_ns": 1767371080600389385,
+            "narration": "Slide left hand upward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371080600389385,
+            "end_ns": 1767371081265389385,
+            "narration": "Press left hand against left side of tape to stick it to tray wall underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371083676389385,
+            "end_ns": 1767371084328389385,
+            "narration": "Unroll about 8 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371084328389385,
+            "end_ns": 1767371084701389385,
+            "narration": "Tear unrolled portion of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371085030389385,
+            "end_ns": 1767371085518389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371085518389385,
+            "end_ns": 1767371086720389385,
+            "narration": "Press tape against top of tray where plastic meets the tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371086720389385,
+            "end_ns": 1767371087486389385,
+            "narration": "Press both hands against tape to stick it securely to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371087486389385,
+            "end_ns": 1767371087967389385,
+            "narration": "Slide both hands away from each other along tape to stick the tape to the surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371087967389385,
+            "end_ns": 1767371088625389385,
+            "narration": "Press both hands against tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371088625389385,
+            "end_ns": 1767371089322389385,
+            "narration": "Slide right hand along right side of tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371091796389385,
+            "end_ns": 1767371092537389385,
+            "narration": "Unroll about 10 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371092537389385,
+            "end_ns": 1767371092954389385,
+            "narration": "Tear unrolled portion of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371093239389385,
+            "end_ns": 1767371094037389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371094037389385,
+            "end_ns": 1767371095106389385,
+            "narration": "Adjust right hand to hold middle portion of piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371095106389385,
+            "end_ns": 1767371095784389385,
+            "narration": "Tear top half of tape away from bottom half with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371095784389385,
+            "end_ns": 1767371096499389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371096499389385,
+            "end_ns": 1767371098075389385,
+            "narration": "Press tape against top left side of tray where tape meets the surface underneath with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371098075389385,
+            "end_ns": 1767371100765389385,
+            "narration": "Press loose portions of tape against surface underneath with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371100765389385,
+            "end_ns": 1767371102196389385,
+            "narration": "Press left hand against tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370813194000707,
+            "end_ns": 1767370814394000707,
+            "narration": "Press piece of tape onto paint tray with left hand thumb"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815597000707,
+            "end_ns": 1767370815892000707,
+            "narration": "Pull about 4 inches of tape from the tape roll using left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815892000707,
+            "end_ns": 1767370816345000707,
+            "narration": "Tear the 4 inches of tape off the roll using left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370816345000707,
+            "end_ns": 1767370816994000707,
+            "narration": "Grip ends of piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370816994000707,
+            "end_ns": 1767370817659000707,
+            "narration": "Roll piece of tape into a loop using both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370817659000707,
+            "end_ns": 1767370817957000707,
+            "narration": "press ends together to make tape loop stick securely with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370818416000707,
+            "end_ns": 1767370819280000707,
+            "narration": "Move loop of tape toward bottom left of paint try"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370819280000707,
+            "end_ns": 1767370820296000707,
+            "narration": "Press loop of tape against paint tray with left hand to make stick"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370822831000707,
+            "end_ns": 1767370823594000707,
+            "narration": "Unroll about 4 inches of tape from end of tape roll using left hand while keeping tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370823594000707,
+            "end_ns": 1767370823939000707,
+            "narration": "Tear 4 inches of tape from the roll using left hand while keeping tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370823939000707,
+            "end_ns": 1767370824659000707,
+            "narration": "Grip piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370824659000707,
+            "end_ns": 1767370825283000707,
+            "narration": "Roll piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370825846000707,
+            "end_ns": 1767370826532000707,
+            "narration": "Move loop of tape toward bottom right of paint tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370826532000707,
+            "end_ns": 1767370828089000707,
+            "narration": "Press loop of tape against paint tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370828089000707,
+            "end_ns": 1767370828659000707,
+            "narration": "Press left hand fingers against tape with left hand to stick the tape securely against the tray"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370829948000707,
+            "end_ns": 1767370830720000707,
+            "narration": "Unroll about 3 inches of tape from the roll using left hand while holding tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370830720000707,
+            "end_ns": 1767370830896000707,
+            "narration": "Tear 3 inches of tape from the roll using left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370830896000707,
+            "end_ns": 1767370831440000707,
+            "narration": "Hold the piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370831440000707,
+            "end_ns": 1767370833249000707,
+            "narration": "Roll the piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370833249000707,
+            "end_ns": 1767370833945000707,
+            "narration": "Move loop of tape toward bottom center of tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370833945000707,
+            "end_ns": 1767370835243000707,
+            "narration": "Stick loop of tape to tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370836877000707,
+            "end_ns": 1767370838043000707,
+            "narration": "Unroll about 4 inches of tape with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838043000707,
+            "end_ns": 1767370838283000707,
+            "narration": "Tear 4 inches of tape from roll with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838283000707,
+            "end_ns": 1767370838683000707,
+            "narration": "Hold piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838683000707,
+            "end_ns": 1767370839406000707,
+            "narration": "Roll piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370839406000707,
+            "end_ns": 1767370840385000707,
+            "narration": "Move loop of tape toward center of tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370840385000707,
+            "end_ns": 1767370841277000707,
+            "narration": "Press loop of tape against tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370841277000707,
+            "end_ns": 1767370841874000707,
+            "narration": "Unstick loop of tape from hand with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370842726000707,
+            "end_ns": 1767370843256000707,
+            "narration": "Unroll about 3 inches of tape with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370843256000707,
+            "end_ns": 1767370843671000707,
+            "narration": "Tear 3 inches of tape from roll with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370843671000707,
+            "end_ns": 1767370844440000707,
+            "narration": "Hold piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370844440000707,
+            "end_ns": 1767370845305000706,
+            "narration": "Roll piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370845305000706,
+            "end_ns": 1767370846163000707,
+            "narration": "Move loop of tape toward top left side of tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370846163000707,
+            "end_ns": 1767370847256000706,
+            "narration": "Press loop of tape against tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370847256000706,
+            "end_ns": 1767370848196000707,
+            "narration": "Press loop of tape against tray again with left hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.tape_roll",
+        "label": "tape roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815139000707,
+            "end_ns": 1767370815597000707,
+            "narration": "Grip end of tape role with left hand thumb and index finger"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370836431000707,
+            "end_ns": 1767370836877000707,
+            "narration": "Grip end of tape roll with left hand"
+          }
+        ]
+      },
+      {
+        "id": "noun.tray",
+        "label": "tray",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371065138389385,
+            "end_ns": 1767371066733389384,
+            "narration": "Move hands away from tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371081265389385,
+            "end_ns": 1767371082505389385,
+            "narration": "Move hands away from tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089322389385,
+            "end_ns": 1767371089935389385,
+            "narration": "Move both hands away from tray"
+          }
+        ]
+      },
+      {
+        "id": "noun.unspecified",
+        "label": "unspecified",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122104013918218,
+            "end_ns": 1767122105776918218,
+            "narration": "Stand upright"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122122117918218,
+            "end_ns": 1767122123155918218,
+            "narration": "Stand upright"
+          }
+        ]
+      }
+    ],
+    "verbs": [
+      {
+        "id": "verb.adjust",
+        "label": "adjust",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371094037389385,
+            "end_ns": 1767371095106389385,
+            "narration": "Adjust right hand to hold middle portion of piece of tape"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123510666187085,
+            "end_ns": 1767123511566187085,
+            "narration": "Adjust orientation of mud pan with both hands"
+          }
+        ]
+      },
+      {
+        "id": "verb.attempt",
+        "label": "attempt",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371074220389385,
+            "end_ns": 1767371074562389385,
+            "narration": "Attempt to stick top end of tape against surface underneath with left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.dip",
+        "label": "dip",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122080291918218,
+            "end_ns": 1767122082004918218,
+            "narration": "Dip paint brush into paint can with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.flip",
+        "label": "flip",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123506656187085,
+            "end_ns": 1767123507126187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507606187085,
+            "end_ns": 1767123507856187085,
+            "narration": "Flip scraper 180 degres with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123514486187085,
+            "end_ns": 1767123515816187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123516576187085,
+            "end_ns": 1767123517616187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123518266187085,
+            "end_ns": 1767123518656187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.gather",
+        "label": "gather",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122107810918218,
+            "end_ns": 1767122109962918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122113759918218,
+            "end_ns": 1767122115598918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122117352918218,
+            "end_ns": 1767122119471918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can"
+          }
+        ]
+      },
+      {
+        "id": "verb.grip",
+        "label": "grip",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815139000707,
+            "end_ns": 1767370815597000707,
+            "narration": "Grip end of tape role with left hand thumb and index finger"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370816345000707,
+            "end_ns": 1767370816994000707,
+            "narration": "Grip ends of piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370823939000707,
+            "end_ns": 1767370824659000707,
+            "narration": "Grip piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370836431000707,
+            "end_ns": 1767370836877000707,
+            "narration": "Grip end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123466086187085,
+            "end_ns": 1767123467006187085,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467836187085,
+            "end_ns": 1767123468246187085,
+            "narration": "Grip scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123482126187085,
+            "end_ns": 1767123482896187085,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneat faucet with left hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509766187085,
+            "end_ns": 1767123510666187085,
+            "narration": "Grip mud pan with both hands"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124280801926340,
+            "end_ns": 1767124281701926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124282751926340,
+            "end_ns": 1767124283451926340,
+            "narration": "Grip scraper with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124299991926340,
+            "end_ns": 1767124300831926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124301821926340,
+            "end_ns": 1767124302451926340,
+            "narration": "Grip scraper handle with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124325471926340,
+            "end_ns": 1767124326291926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327431926340,
+            "end_ns": 1767124327971926340,
+            "narration": "Grip scraper handle with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126068993618768,
+            "end_ns": 1767126070143618768,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070753618768,
+            "end_ns": 1767126071373618768,
+            "narration": "Grip scraper handle with right hand while moving mud pan away from faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126090063618768,
+            "end_ns": 1767126091053618768,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126092773618768,
+            "end_ns": 1767126093193618768,
+            "narration": "Grip scraper handle with right hand while moving mud pan away from faucet with left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.hold",
+        "label": "hold",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371054132389385,
+            "end_ns": 1767371055049389385,
+            "narration": "Hold ends of piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371055992389385,
+            "end_ns": 1767371056556389385,
+            "narration": "Hold tape with with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371057530389385,
+            "end_ns": 1767371058094389385,
+            "narration": "Hold top end of piece of tape with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371067049389385,
+            "end_ns": 1767371067758389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068967389385,
+            "end_ns": 1767371069442389385,
+            "narration": "Hold bottom end of tape with right hand while holding top end with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371083125389384,
+            "end_ns": 1767371083676389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371085030389385,
+            "end_ns": 1767371085518389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371090999389385,
+            "end_ns": 1767371091796389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371093239389385,
+            "end_ns": 1767371094037389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371095784389385,
+            "end_ns": 1767371096499389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370830896000707,
+            "end_ns": 1767370831440000707,
+            "narration": "Hold the piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838283000707,
+            "end_ns": 1767370838683000707,
+            "narration": "Hold piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370843671000707,
+            "end_ns": 1767370844440000707,
+            "narration": "Hold piece of tape with both hands"
+          }
+        ]
+      },
+      {
+        "id": "verb.let_go",
+        "label": "let go",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371055049389385,
+            "end_ns": 1767371055992389385,
+            "narration": "Let go of right end of tape with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.lift",
+        "label": "lift",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123518656187085,
+            "end_ns": 1767123520286187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123522536187085,
+            "end_ns": 1767123523246187085,
+            "narration": "Lift scraper toward ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123526306187085,
+            "end_ns": 1767123526646187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123529476187085,
+            "end_ns": 1767123532166187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.mix",
+        "label": "mix",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123468246187085,
+            "end_ns": 1767123472286187085,
+            "narration": "Mix dry compound and water inside mud pan with scraper using right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123484256187085,
+            "end_ns": 1767123489706187085,
+            "narration": "Mix dry compound and water inside mud pan using scraper with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.move",
+        "label": "move",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371051106389385,
+            "end_ns": 1767371052385389385,
+            "narration": "Move left hand toward tape roll in right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371056556389385,
+            "end_ns": 1767371057530389385,
+            "narration": "Move left hand away from piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371058094389385,
+            "end_ns": 1767371058885389385,
+            "narration": "Move piece of tape toward right side of tray while shifting right hand toward bottom end of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371065138389385,
+            "end_ns": 1767371066733389384,
+            "narration": "Move hands away from tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371069442389385,
+            "end_ns": 1767371070803389385,
+            "narration": "Move tape toward tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371081265389385,
+            "end_ns": 1767371082505389385,
+            "narration": "Move hands away from tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089322389385,
+            "end_ns": 1767371089935389385,
+            "narration": "Move both hands away from tray"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370814394000707,
+            "end_ns": 1767370815139000707,
+            "narration": "Move left hand toward tape roll on right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370818416000707,
+            "end_ns": 1767370819280000707,
+            "narration": "Move loop of tape toward bottom left of paint try"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370822314000707,
+            "end_ns": 1767370822831000707,
+            "narration": "Move left hand toward tape roll on right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370825846000707,
+            "end_ns": 1767370826532000707,
+            "narration": "Move loop of tape toward bottom right of paint tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370829397000707,
+            "end_ns": 1767370829948000707,
+            "narration": "Move left hand toward tape roll in right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370833249000707,
+            "end_ns": 1767370833945000707,
+            "narration": "Move loop of tape toward bottom center of tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370835243000707,
+            "end_ns": 1767370836431000707,
+            "narration": "Move left hand toward roll of tape in right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370839406000707,
+            "end_ns": 1767370840385000707,
+            "narration": "Move loop of tape toward center of tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370841874000707,
+            "end_ns": 1767370842726000707,
+            "narration": "Move left hand toward roll of tape"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370845305000706,
+            "end_ns": 1767370846163000707,
+            "narration": "Move loop of tape toward top left side of tray with left hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123462166187085,
+            "end_ns": 1767123466086187085,
+            "narration": "Move scraper back and forth inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123491406187085,
+            "end_ns": 1767123504376187085,
+            "narration": "Move scraper back and forth inside mud pan to continue incorporating dry compound and water into paste with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123521366187085,
+            "end_ns": 1767123521996187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123524766187085,
+            "end_ns": 1767123525396187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123527836187085,
+            "end_ns": 1767123528816187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123532166187085,
+            "end_ns": 1767123532766187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123532766187085,
+            "end_ns": 1767123533896187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123534206187085,
+            "end_ns": 1767123534876187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123535276187085,
+            "end_ns": 1767123536466187085,
+            "narration": "Move scraper along ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278941926340,
+            "end_ns": 1767124280801926340,
+            "narration": "Move scraper back and forth in mud pan to mix contents with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124283451926340,
+            "end_ns": 1767124295641926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124297401926340,
+            "end_ns": 1767124299981926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124302451926340,
+            "end_ns": 1767124316161926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124316161926340,
+            "end_ns": 1767124320751926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124320751926340,
+            "end_ns": 1767124325471926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327971926340,
+            "end_ns": 1767124335241926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124335241926340,
+            "end_ns": 1767124336961926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124336961926340,
+            "end_ns": 1767124346891926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124346891926340,
+            "end_ns": 1767124348191926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124348191926340,
+            "end_ns": 1767124352541926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126059813618768,
+            "end_ns": 1767126068993618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126071373618768,
+            "end_ns": 1767126090063618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents thoroughly"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126093993618768,
+            "end_ns": 1767126101183618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126103443618768,
+            "end_ns": 1767126113160618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          }
+        ]
+      },
+      {
+        "id": "verb.pick_up",
+        "label": "pick up",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371066733389384,
+            "end_ns": 1767371067049389385,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371082505389385,
+            "end_ns": 1767371083125389384,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089935389385,
+            "end_ns": 1767371090999389385,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509216187085,
+            "end_ns": 1767123509766187085,
+            "narration": "Pick up wide body scraper with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079763918218,
+            "end_ns": 1767122080291918218,
+            "narration": "Pick up paint brush with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126059083618768,
+            "end_ns": 1767126059813618768,
+            "narration": "Pick up mud pan with left hand while gripping scraper handle with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.place",
+        "label": "place",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068575389385,
+            "end_ns": 1767371068967389385,
+            "narration": "Place tape roll onto floor with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371084701389385,
+            "end_ns": 1767371085030389385,
+            "narration": "Place tape roll onto floor with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371092954389385,
+            "end_ns": 1767371093239389385,
+            "narration": "Place tape roll onto floor with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123508346187085,
+            "end_ns": 1767123509216187085,
+            "narration": "Place scraper on countertop with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123511566187085,
+            "end_ns": 1767123512806187085,
+            "narration": "Place wide body scraper along inside wall of mud pan"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079162918218,
+            "end_ns": 1767122079763918218,
+            "narration": "Place paint scraper on can with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.position",
+        "label": "position",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126093193618768,
+            "end_ns": 1767126093993618768,
+            "narration": "Position mud pan directly above countertop with left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.pour",
+        "label": "pour",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122082004918218,
+            "end_ns": 1767122085216918218,
+            "narration": "Pour paint from from paint can in left hand into another paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122085216918218,
+            "end_ns": 1767122099191918218,
+            "narration": "Continu pouring paint by using paint brush in right hand to push contents from can in left hand into other can"
+          }
+        ]
+      },
+      {
+        "id": "verb.press",
+        "label": "press",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371050182389385,
+            "end_ns": 1767371051106389385,
+            "narration": "Press sheet of plastic against top right side of tray with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371058885389385,
+            "end_ns": 1767371060404389385,
+            "narration": "Press tape against right wall of tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371060404389385,
+            "end_ns": 1767371061100389385,
+            "narration": "Press top end of tape against plastic with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371061100389385,
+            "end_ns": 1767371061752389385,
+            "narration": "Press middle of tape against plastic with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371062784389385,
+            "end_ns": 1767371063087389385,
+            "narration": "Press loose bottom side of tape against top of tray with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371070803389385,
+            "end_ns": 1767371072448389385,
+            "narration": "Press tape against top right wall of tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371072448389385,
+            "end_ns": 1767371073214389385,
+            "narration": "Press bottom side of tape over edge of tray with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371074562389385,
+            "end_ns": 1767371075625389385,
+            "narration": "Press top end of tape against surface underneath with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371077049389385,
+            "end_ns": 1767371077967389385,
+            "narration": "Press top of tape against and over the edge of the top right side of the tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371079043389385,
+            "end_ns": 1767371079480389385,
+            "narration": "Press left hand against top of tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371080600389385,
+            "end_ns": 1767371081265389385,
+            "narration": "Press left hand against left side of tape to stick it to tray wall underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371085518389385,
+            "end_ns": 1767371086720389385,
+            "narration": "Press tape against top of tray where plastic meets the tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371086720389385,
+            "end_ns": 1767371087486389385,
+            "narration": "Press both hands against tape to stick it securely to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371087967389385,
+            "end_ns": 1767371088625389385,
+            "narration": "Press both hands against tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371096499389385,
+            "end_ns": 1767371098075389385,
+            "narration": "Press tape against top left side of tray where tape meets the surface underneath with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371098075389385,
+            "end_ns": 1767371100765389385,
+            "narration": "Press loose portions of tape against surface underneath with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371100765389385,
+            "end_ns": 1767371102196389385,
+            "narration": "Press left hand against tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370813194000707,
+            "end_ns": 1767370814394000707,
+            "narration": "Press piece of tape onto paint tray with left hand thumb"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370817659000707,
+            "end_ns": 1767370817957000707,
+            "narration": "press ends together to make tape loop stick securely with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370819280000707,
+            "end_ns": 1767370820296000707,
+            "narration": "Press loop of tape against paint tray with left hand to make stick"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370826532000707,
+            "end_ns": 1767370828089000707,
+            "narration": "Press loop of tape against paint tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370828089000707,
+            "end_ns": 1767370828659000707,
+            "narration": "Press left hand fingers against tape with left hand to stick the tape securely against the tray"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370840385000707,
+            "end_ns": 1767370841277000707,
+            "narration": "Press loop of tape against tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370846163000707,
+            "end_ns": 1767370847256000706,
+            "narration": "Press loop of tape against tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370847256000706,
+            "end_ns": 1767370848196000707,
+            "narration": "Press loop of tape against tray again with left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.pull",
+        "label": "pull",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815597000707,
+            "end_ns": 1767370815892000707,
+            "narration": "Pull about 4 inches of tape from the tape roll using left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.push",
+        "label": "push",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123489706187085,
+            "end_ns": 1767123491406187085,
+            "narration": "Push paste against bottom of mud pan using scraper with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124295641926340,
+            "end_ns": 1767124297401926340,
+            "narration": "Push mud pan contents to one side of the pan with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.remove",
+        "label": "remove",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370817957000707,
+            "end_ns": 1767370818416000707,
+            "narration": "Remove right hand from loop of tape"
+          }
+        ]
+      },
+      {
+        "id": "verb.roll",
+        "label": "roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370816994000707,
+            "end_ns": 1767370817659000707,
+            "narration": "Roll piece of tape into a loop using both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370824659000707,
+            "end_ns": 1767370825283000707,
+            "narration": "Roll piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370831440000707,
+            "end_ns": 1767370833249000707,
+            "narration": "Roll the piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838683000707,
+            "end_ns": 1767370839406000707,
+            "narration": "Roll piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370844440000707,
+            "end_ns": 1767370845305000706,
+            "narration": "Roll piece of tape into a loop with both hands"
+          }
+        ]
+      },
+      {
+        "id": "verb.scrape",
+        "label": "scrape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126101183618768,
+            "end_ns": 1767126103443618768,
+            "narration": "Scrape mud pan contents from sides toward center with scraper using right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.slide",
+        "label": "slide",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371061752389385,
+            "end_ns": 1767371062784389385,
+            "narration": "Slide both hands toward bottom end of tape while pressing against plastic to stick the tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371063087389385,
+            "end_ns": 1767371065138389385,
+            "narration": "Slide left hand between top and bottom of tape to stick it securely"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371073214389385,
+            "end_ns": 1767371074220389385,
+            "narration": "Slide right hand upward along tape to stick it to surface"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371075625389385,
+            "end_ns": 1767371076296389385,
+            "narration": "Slide right hand downward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371076296389385,
+            "end_ns": 1767371077049389385,
+            "narration": "Slide right hand upward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371077967389385,
+            "end_ns": 1767371079043389385,
+            "narration": "Slide right hand downward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371079480389385,
+            "end_ns": 1767371080600389385,
+            "narration": "Slide left hand upward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371087486389385,
+            "end_ns": 1767371087967389385,
+            "narration": "Slide both hands away from each other along tape to stick the tape to the surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371088625389385,
+            "end_ns": 1767371089322389385,
+            "narration": "Slide right hand along right side of tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123512806187085,
+            "end_ns": 1767123514486187085,
+            "narration": "Slide wide body scraper through mud pan to gather paste onto scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123515816187085,
+            "end_ns": 1767123516576187085,
+            "narration": "Slide scraper along edge of mud pan to deposit paste back into mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123517616187085,
+            "end_ns": 1767123518266187085,
+            "narration": "Slide scraper along paste in mud pan to gather paste onto scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123520286187085,
+            "end_ns": 1767123521366187085,
+            "narration": "Slide scraper along patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123523246187085,
+            "end_ns": 1767123524766187085,
+            "narration": "Slide scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123526646187085,
+            "end_ns": 1767123527836187085,
+            "narration": "Slide scraper along ceiling patch with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.stand",
+        "label": "stand",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122104013918218,
+            "end_ns": 1767122105776918218,
+            "narration": "Stand upright"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122122117918218,
+            "end_ns": 1767122123155918218,
+            "narration": "Stand upright"
+          }
+        ]
+      },
+      {
+        "id": "verb.stick",
+        "label": "stick",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370833945000707,
+            "end_ns": 1767370835243000707,
+            "narration": "Stick loop of tape to tray with left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.tear",
+        "label": "tear",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371053739389385,
+            "end_ns": 1767371054132389385,
+            "narration": "Tear 12 inches of tape from tape roll with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068252389385,
+            "end_ns": 1767371068575389385,
+            "narration": "Tear the unrolled portion of the tape away from the roll with the left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371084328389385,
+            "end_ns": 1767371084701389385,
+            "narration": "Tear unrolled portion of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371092537389385,
+            "end_ns": 1767371092954389385,
+            "narration": "Tear unrolled portion of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371095106389385,
+            "end_ns": 1767371095784389385,
+            "narration": "Tear top half of tape away from bottom half with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370823594000707,
+            "end_ns": 1767370823939000707,
+            "narration": "Tear 4 inches of tape from the roll using left hand while keeping tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370830720000707,
+            "end_ns": 1767370830896000707,
+            "narration": "Tear 3 inches of tape from the roll using left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838043000707,
+            "end_ns": 1767370838283000707,
+            "narration": "Tear 4 inches of tape from roll with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370843256000707,
+            "end_ns": 1767370843671000707,
+            "narration": "Tear 3 inches of tape from roll with left hand while holding roll steady with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.tear_off",
+        "label": "tear off",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815892000707,
+            "end_ns": 1767370816345000707,
+            "narration": "Tear the 4 inches of tape off the roll using left hand while holding roll steady with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.turn",
+        "label": "turn",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123472286187085,
+            "end_ns": 1767123473216187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan using right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123473216187085,
+            "end_ns": 1767123474626187085,
+            "narration": "Turn scraper back to original orientation and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123474626187085,
+            "end_ns": 1767123476126187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123476126187085,
+            "end_ns": 1767123478286187085,
+            "narration": "Turn scraper back to original orientation and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123478286187085,
+            "end_ns": 1767123482126187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123521996187085,
+            "end_ns": 1767123522536187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123525396187085,
+            "end_ns": 1767123526306187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123528816187085,
+            "end_ns": 1767123529476187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123533896187085,
+            "end_ns": 1767123534206187085,
+            "narration": "Turn scraper 90 degrees while parallel to ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123534876187085,
+            "end_ns": 1767123535276187085,
+            "narration": "Turn scraper back 90 degrees while parallel to ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123536466187085,
+            "end_ns": 1767123537180187085,
+            "narration": "Turn scraper 180 degrees while parallel to the ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278171926340,
+            "end_ns": 1767124278941926340,
+            "narration": "Turn head to face mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126057183618768,
+            "end_ns": 1767126059083618768,
+            "narration": "Turn right to face mud pan"
+          }
+        ]
+      },
+      {
+        "id": "verb.turn_off",
+        "label": "turn off",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467406187085,
+            "end_ns": 1767123467836187085,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123483786187085,
+            "end_ns": 1767123484256187085,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124282461926340,
+            "end_ns": 1767124282741926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124301251926340,
+            "end_ns": 1767124301821926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327061926340,
+            "end_ns": 1767124327431926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070433618768,
+            "end_ns": 1767126070753618768,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126092313618768,
+            "end_ns": 1767126092773618768,
+            "narration": "Turn off faucet with left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.turn_on",
+        "label": "turn on",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467006187085,
+            "end_ns": 1767123467406187085,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123482896187085,
+            "end_ns": 1767123483776187085,
+            "narration": "Turn on faucet using handle with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124281701926340,
+            "end_ns": 1767124282461926340,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124300831926340,
+            "end_ns": 1767124301241926340,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124326291926340,
+            "end_ns": 1767124327061926340,
+            "narration": "Turn on faucet slightly with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070143618768,
+            "end_ns": 1767126070433618768,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126091053618768,
+            "end_ns": 1767126092313618768,
+            "narration": "Turn on faucet with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.unroll",
+        "label": "unroll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371052385389385,
+            "end_ns": 1767371053739389385,
+            "narration": "Unroll about 12 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371067758389385,
+            "end_ns": 1767371068252389385,
+            "narration": "Unroll about 8 inches of tape with left hand while holding tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371083676389385,
+            "end_ns": 1767371084328389385,
+            "narration": "Unroll about 8 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371091796389385,
+            "end_ns": 1767371092537389385,
+            "narration": "Unroll about 10 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370822831000707,
+            "end_ns": 1767370823594000707,
+            "narration": "Unroll about 4 inches of tape from end of tape roll using left hand while keeping tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370829948000707,
+            "end_ns": 1767370830720000707,
+            "narration": "Unroll about 3 inches of tape from the roll using left hand while holding tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370836877000707,
+            "end_ns": 1767370838043000707,
+            "narration": "Unroll about 4 inches of tape with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370842726000707,
+            "end_ns": 1767370843256000707,
+            "narration": "Unroll about 3 inches of tape with left hand while holding roll steady with right hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.unstick",
+        "label": "unstick",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370820296000707,
+            "end_ns": 1767370822314000707,
+            "narration": "Unstick left hand from loop of tape with left hand while keeping the loop stuck against the paint tray"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370825283000707,
+            "end_ns": 1767370825846000707,
+            "narration": "Unstick right hand from loop of tape"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370828659000707,
+            "end_ns": 1767370829397000707,
+            "narration": "Unstick left hand from tape with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370841277000707,
+            "end_ns": 1767370841874000707,
+            "narration": "Unstick loop of tape from hand with left hand"
+          }
+        ]
+      },
+      {
+        "id": "verb.wipe",
+        "label": "wipe",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123504376187085,
+            "end_ns": 1767123505336187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123505336187085,
+            "end_ns": 1767123506656187085,
+            "narration": "Wipe other side of scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507126187085,
+            "end_ns": 1767123507606187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507856187085,
+            "end_ns": 1767123508346187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122099191918218,
+            "end_ns": 1767122100343918218,
+            "narration": "Wipe paint brush against edge of can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122100343918218,
+            "end_ns": 1767122101826918218,
+            "narration": "Wipe other side of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122101826918218,
+            "end_ns": 1767122102742918218,
+            "narration": "Wipe edge of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122102742918218,
+            "end_ns": 1767122104013918218,
+            "narration": "Wipe other edge of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122105776918218,
+            "end_ns": 1767122106649918218,
+            "narration": "Wipe bottom of paint brush against rim of paint can using right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122106649918218,
+            "end_ns": 1767122107810918218,
+            "narration": "Wipe side of paint brush against other paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122109962918218,
+            "end_ns": 1767122111971918218,
+            "narration": "Wipe side of paint brush against edge of other paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122111971918218,
+            "end_ns": 1767122113038918218,
+            "narration": "Wipe edge of paint brush against edge of the same paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122113038918218,
+            "end_ns": 1767122113759918218,
+            "narration": "Wipe other edge of paint brush against paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122115598918218,
+            "end_ns": 1767122117352918218,
+            "narration": "Wipe side of paint brush against edge of paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122119471918218,
+            "end_ns": 1767122121106918218,
+            "narration": "Wipe side of paint brush against edge of paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122121106918218,
+            "end_ns": 1767122122117918218,
+            "narration": "Wipe edge of paint brush against edge of paint can"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124352541926340,
+            "end_ns": 1767124353175926340,
+            "narration": "Wipe scraper against edge of mud pan"
+          }
+        ]
+      }
+    ],
+    "noun_verb_pairs": [
+      {
+        "id": "pair.adjust.pan",
+        "label": "adjust pan",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123510666187085,
+            "end_ns": 1767123511566187085,
+            "narration": "Adjust orientation of mud pan with both hands"
+          }
+        ],
+        "verb": "verb.adjust",
+        "noun": "noun.pan"
+      },
+      {
+        "id": "pair.adjust.tape",
+        "label": "adjust tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371094037389385,
+            "end_ns": 1767371095106389385,
+            "narration": "Adjust right hand to hold middle portion of piece of tape"
+          }
+        ],
+        "verb": "verb.adjust",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.attempt.tape",
+        "label": "attempt tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371074220389385,
+            "end_ns": 1767371074562389385,
+            "narration": "Attempt to stick top end of tape against surface underneath with left hand"
+          }
+        ],
+        "verb": "verb.attempt",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.dip.brush",
+        "label": "dip brush",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122080291918218,
+            "end_ns": 1767122082004918218,
+            "narration": "Dip paint brush into paint can with right hand"
+          }
+        ],
+        "verb": "verb.dip",
+        "noun": "noun.brush"
+      },
+      {
+        "id": "pair.flip.scraper",
+        "label": "flip scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123506656187085,
+            "end_ns": 1767123507126187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507606187085,
+            "end_ns": 1767123507856187085,
+            "narration": "Flip scraper 180 degres with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123514486187085,
+            "end_ns": 1767123515816187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123516576187085,
+            "end_ns": 1767123517616187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123518266187085,
+            "end_ns": 1767123518656187085,
+            "narration": "Flip scraper 180 degrees with right hand"
+          }
+        ],
+        "verb": "verb.flip",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.gather.paint",
+        "label": "gather paint",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122107810918218,
+            "end_ns": 1767122109962918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122113759918218,
+            "end_ns": 1767122115598918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122117352918218,
+            "end_ns": 1767122119471918218,
+            "narration": "Gather paint onto brush by sliding it along inside of paint can"
+          }
+        ],
+        "verb": "verb.gather",
+        "noun": "noun.paint"
+      },
+      {
+        "id": "pair.grip.faucet",
+        "label": "grip faucet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124280801926340,
+            "end_ns": 1767124281701926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124299991926340,
+            "end_ns": 1767124300831926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124325471926340,
+            "end_ns": 1767124326291926340,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126068993618768,
+            "end_ns": 1767126070143618768,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126090063618768,
+            "end_ns": 1767126091053618768,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          }
+        ],
+        "verb": "verb.grip",
+        "noun": "noun.faucet"
+      },
+      {
+        "id": "pair.grip.handle",
+        "label": "grip handle",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123466086187085,
+            "end_ns": 1767123467006187085,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneath faucet with left hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123482126187085,
+            "end_ns": 1767123482896187085,
+            "narration": "Grip faucet handle with right hand while positioning mud pan underneat faucet with left hand"
+          }
+        ],
+        "verb": "verb.grip",
+        "noun": "noun.handle"
+      },
+      {
+        "id": "pair.grip.pan",
+        "label": "grip pan",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509766187085,
+            "end_ns": 1767123510666187085,
+            "narration": "Grip mud pan with both hands"
+          }
+        ],
+        "verb": "verb.grip",
+        "noun": "noun.pan"
+      },
+      {
+        "id": "pair.grip.scraper",
+        "label": "grip scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467836187085,
+            "end_ns": 1767123468246187085,
+            "narration": "Grip scraper with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124282751926340,
+            "end_ns": 1767124283451926340,
+            "narration": "Grip scraper with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124301821926340,
+            "end_ns": 1767124302451926340,
+            "narration": "Grip scraper handle with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327431926340,
+            "end_ns": 1767124327971926340,
+            "narration": "Grip scraper handle with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070753618768,
+            "end_ns": 1767126071373618768,
+            "narration": "Grip scraper handle with right hand while moving mud pan away from faucet with left hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126092773618768,
+            "end_ns": 1767126093193618768,
+            "narration": "Grip scraper handle with right hand while moving mud pan away from faucet with left hand"
+          }
+        ],
+        "verb": "verb.grip",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.grip.tape",
+        "label": "grip tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370816345000707,
+            "end_ns": 1767370816994000707,
+            "narration": "Grip ends of piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370823939000707,
+            "end_ns": 1767370824659000707,
+            "narration": "Grip piece of tape with both hands"
+          }
+        ],
+        "verb": "verb.grip",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.grip.tape_roll",
+        "label": "grip tape roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815139000707,
+            "end_ns": 1767370815597000707,
+            "narration": "Grip end of tape role with left hand thumb and index finger"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370836431000707,
+            "end_ns": 1767370836877000707,
+            "narration": "Grip end of tape roll with left hand"
+          }
+        ],
+        "verb": "verb.grip",
+        "noun": "noun.tape_roll"
+      },
+      {
+        "id": "pair.hold.roll",
+        "label": "hold roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371067049389385,
+            "end_ns": 1767371067758389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371083125389384,
+            "end_ns": 1767371083676389385,
+            "narration": "Hold end of tape roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371090999389385,
+            "end_ns": 1767371091796389385,
+            "narration": "Hold end of tape roll with left hand"
+          }
+        ],
+        "verb": "verb.hold",
+        "noun": "noun.roll"
+      },
+      {
+        "id": "pair.hold.tape",
+        "label": "hold tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371054132389385,
+            "end_ns": 1767371055049389385,
+            "narration": "Hold ends of piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371055992389385,
+            "end_ns": 1767371056556389385,
+            "narration": "Hold tape with with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371057530389385,
+            "end_ns": 1767371058094389385,
+            "narration": "Hold top end of piece of tape with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068967389385,
+            "end_ns": 1767371069442389385,
+            "narration": "Hold bottom end of tape with right hand while holding top end with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371085030389385,
+            "end_ns": 1767371085518389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371093239389385,
+            "end_ns": 1767371094037389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371095784389385,
+            "end_ns": 1767371096499389385,
+            "narration": "Hold ends of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370830896000707,
+            "end_ns": 1767370831440000707,
+            "narration": "Hold the piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838283000707,
+            "end_ns": 1767370838683000707,
+            "narration": "Hold piece of tape with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370843671000707,
+            "end_ns": 1767370844440000707,
+            "narration": "Hold piece of tape with both hands"
+          }
+        ],
+        "verb": "verb.hold",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.let_go.tape",
+        "label": "let go tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371055049389385,
+            "end_ns": 1767371055992389385,
+            "narration": "Let go of right end of tape with right hand"
+          }
+        ],
+        "verb": "verb.let_go",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.lift.scraper",
+        "label": "lift scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123518656187085,
+            "end_ns": 1767123520286187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123522536187085,
+            "end_ns": 1767123523246187085,
+            "narration": "Lift scraper toward ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123526306187085,
+            "end_ns": 1767123526646187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123529476187085,
+            "end_ns": 1767123532166187085,
+            "narration": "Lift scraper toward ceiling patch with right hand"
+          }
+        ],
+        "verb": "verb.lift",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.mix.compound",
+        "label": "mix compound",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123468246187085,
+            "end_ns": 1767123472286187085,
+            "narration": "Mix dry compound and water inside mud pan with scraper using right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123484256187085,
+            "end_ns": 1767123489706187085,
+            "narration": "Mix dry compound and water inside mud pan using scraper with right hand"
+          }
+        ],
+        "verb": "verb.mix",
+        "noun": "noun.compound"
+      },
+      {
+        "id": "pair.move.hand",
+        "label": "move hand",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370814394000707,
+            "end_ns": 1767370815139000707,
+            "narration": "Move left hand toward tape roll on right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370822314000707,
+            "end_ns": 1767370822831000707,
+            "narration": "Move left hand toward tape roll on right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370829397000707,
+            "end_ns": 1767370829948000707,
+            "narration": "Move left hand toward tape roll in right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370835243000707,
+            "end_ns": 1767370836431000707,
+            "narration": "Move left hand toward roll of tape in right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370841874000707,
+            "end_ns": 1767370842726000707,
+            "narration": "Move left hand toward roll of tape"
+          }
+        ],
+        "verb": "verb.move",
+        "noun": "noun.hand"
+      },
+      {
+        "id": "pair.move.roll",
+        "label": "move roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371051106389385,
+            "end_ns": 1767371052385389385,
+            "narration": "Move left hand toward tape roll in right hand"
+          }
+        ],
+        "verb": "verb.move",
+        "noun": "noun.roll"
+      },
+      {
+        "id": "pair.move.scraper",
+        "label": "move scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123462166187085,
+            "end_ns": 1767123466086187085,
+            "narration": "Move scraper back and forth inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123491406187085,
+            "end_ns": 1767123504376187085,
+            "narration": "Move scraper back and forth inside mud pan to continue incorporating dry compound and water into paste with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123521366187085,
+            "end_ns": 1767123521996187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123524766187085,
+            "end_ns": 1767123525396187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123527836187085,
+            "end_ns": 1767123528816187085,
+            "narration": "Move scraper down toward mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123532166187085,
+            "end_ns": 1767123532766187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123532766187085,
+            "end_ns": 1767123533896187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123534206187085,
+            "end_ns": 1767123534876187085,
+            "narration": "Move scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123535276187085,
+            "end_ns": 1767123536466187085,
+            "narration": "Move scraper along ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278941926340,
+            "end_ns": 1767124280801926340,
+            "narration": "Move scraper back and forth in mud pan to mix contents with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124283451926340,
+            "end_ns": 1767124295641926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124297401926340,
+            "end_ns": 1767124299981926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124302451926340,
+            "end_ns": 1767124316161926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124316161926340,
+            "end_ns": 1767124320751926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124320751926340,
+            "end_ns": 1767124325471926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327971926340,
+            "end_ns": 1767124335241926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124335241926340,
+            "end_ns": 1767124336961926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124336961926340,
+            "end_ns": 1767124346891926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124346891926340,
+            "end_ns": 1767124348191926340,
+            "narration": "Move scraper in circular motion inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124348191926340,
+            "end_ns": 1767124352541926340,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126059813618768,
+            "end_ns": 1767126068993618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126071373618768,
+            "end_ns": 1767126090063618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents thoroughly"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126093993618768,
+            "end_ns": 1767126101183618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126103443618768,
+            "end_ns": 1767126113160618768,
+            "narration": "Move scraper back and forth inside mud pan with right hand to mix contents"
+          }
+        ],
+        "verb": "verb.move",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.move.tape",
+        "label": "move tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371056556389385,
+            "end_ns": 1767371057530389385,
+            "narration": "Move left hand away from piece of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371058094389385,
+            "end_ns": 1767371058885389385,
+            "narration": "Move piece of tape toward right side of tray while shifting right hand toward bottom end of tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371069442389385,
+            "end_ns": 1767371070803389385,
+            "narration": "Move tape toward tray with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370818416000707,
+            "end_ns": 1767370819280000707,
+            "narration": "Move loop of tape toward bottom left of paint try"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370825846000707,
+            "end_ns": 1767370826532000707,
+            "narration": "Move loop of tape toward bottom right of paint tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370833249000707,
+            "end_ns": 1767370833945000707,
+            "narration": "Move loop of tape toward bottom center of tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370839406000707,
+            "end_ns": 1767370840385000707,
+            "narration": "Move loop of tape toward center of tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370845305000706,
+            "end_ns": 1767370846163000707,
+            "narration": "Move loop of tape toward top left side of tray with left hand"
+          }
+        ],
+        "verb": "verb.move",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.move.tray",
+        "label": "move tray",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371065138389385,
+            "end_ns": 1767371066733389384,
+            "narration": "Move hands away from tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371081265389385,
+            "end_ns": 1767371082505389385,
+            "narration": "Move hands away from tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089322389385,
+            "end_ns": 1767371089935389385,
+            "narration": "Move both hands away from tray"
+          }
+        ],
+        "verb": "verb.move",
+        "noun": "noun.tray"
+      },
+      {
+        "id": "pair.pick_up.brush",
+        "label": "pick up brush",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079763918218,
+            "end_ns": 1767122080291918218,
+            "narration": "Pick up paint brush with right hand"
+          }
+        ],
+        "verb": "verb.pick_up",
+        "noun": "noun.brush"
+      },
+      {
+        "id": "pair.pick_up.pan",
+        "label": "pick up pan",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126059083618768,
+            "end_ns": 1767126059813618768,
+            "narration": "Pick up mud pan with left hand while gripping scraper handle with right hand"
+          }
+        ],
+        "verb": "verb.pick_up",
+        "noun": "noun.pan"
+      },
+      {
+        "id": "pair.pick_up.roll",
+        "label": "pick up roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371066733389384,
+            "end_ns": 1767371067049389385,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371082505389385,
+            "end_ns": 1767371083125389384,
+            "narration": "Pick up tape roll with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371089935389385,
+            "end_ns": 1767371090999389385,
+            "narration": "Pick up tape roll with right hand"
+          }
+        ],
+        "verb": "verb.pick_up",
+        "noun": "noun.roll"
+      },
+      {
+        "id": "pair.pick_up.scraper",
+        "label": "pick up scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123509216187085,
+            "end_ns": 1767123509766187085,
+            "narration": "Pick up wide body scraper with right hand"
+          }
+        ],
+        "verb": "verb.pick_up",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.place.roll",
+        "label": "place roll",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068575389385,
+            "end_ns": 1767371068967389385,
+            "narration": "Place tape roll onto floor with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371084701389385,
+            "end_ns": 1767371085030389385,
+            "narration": "Place tape roll onto floor with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371092954389385,
+            "end_ns": 1767371093239389385,
+            "narration": "Place tape roll onto floor with right hand"
+          }
+        ],
+        "verb": "verb.place",
+        "noun": "noun.roll"
+      },
+      {
+        "id": "pair.place.scraper",
+        "label": "place scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123508346187085,
+            "end_ns": 1767123509216187085,
+            "narration": "Place scraper on countertop with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123511566187085,
+            "end_ns": 1767123512806187085,
+            "narration": "Place wide body scraper along inside wall of mud pan"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122079162918218,
+            "end_ns": 1767122079763918218,
+            "narration": "Place paint scraper on can with right hand"
+          }
+        ],
+        "verb": "verb.place",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.position.pan",
+        "label": "position pan",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126093193618768,
+            "end_ns": 1767126093993618768,
+            "narration": "Position mud pan directly above countertop with left hand"
+          }
+        ],
+        "verb": "verb.position",
+        "noun": "noun.pan"
+      },
+      {
+        "id": "pair.pour.paint",
+        "label": "pour paint",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122082004918218,
+            "end_ns": 1767122085216918218,
+            "narration": "Pour paint from from paint can in left hand into another paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122085216918218,
+            "end_ns": 1767122099191918218,
+            "narration": "Continu pouring paint by using paint brush in right hand to push contents from can in left hand into other can"
+          }
+        ],
+        "verb": "verb.pour",
+        "noun": "noun.paint"
+      },
+      {
+        "id": "pair.press.sheet",
+        "label": "press sheet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371050182389385,
+            "end_ns": 1767371051106389385,
+            "narration": "Press sheet of plastic against top right side of tray with left hand"
+          }
+        ],
+        "verb": "verb.press",
+        "noun": "noun.sheet"
+      },
+      {
+        "id": "pair.press.tape",
+        "label": "press tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371058885389385,
+            "end_ns": 1767371060404389385,
+            "narration": "Press tape against right wall of tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371060404389385,
+            "end_ns": 1767371061100389385,
+            "narration": "Press top end of tape against plastic with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371061100389385,
+            "end_ns": 1767371061752389385,
+            "narration": "Press middle of tape against plastic with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371062784389385,
+            "end_ns": 1767371063087389385,
+            "narration": "Press loose bottom side of tape against top of tray with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371070803389385,
+            "end_ns": 1767371072448389385,
+            "narration": "Press tape against top right wall of tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371072448389385,
+            "end_ns": 1767371073214389385,
+            "narration": "Press bottom side of tape over edge of tray with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371074562389385,
+            "end_ns": 1767371075625389385,
+            "narration": "Press top end of tape against surface underneath with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371077049389385,
+            "end_ns": 1767371077967389385,
+            "narration": "Press top of tape against and over the edge of the top right side of the tray with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371079043389385,
+            "end_ns": 1767371079480389385,
+            "narration": "Press left hand against top of tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371080600389385,
+            "end_ns": 1767371081265389385,
+            "narration": "Press left hand against left side of tape to stick it to tray wall underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371085518389385,
+            "end_ns": 1767371086720389385,
+            "narration": "Press tape against top of tray where plastic meets the tray"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371086720389385,
+            "end_ns": 1767371087486389385,
+            "narration": "Press both hands against tape to stick it securely to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371087967389385,
+            "end_ns": 1767371088625389385,
+            "narration": "Press both hands against tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371096499389385,
+            "end_ns": 1767371098075389385,
+            "narration": "Press tape against top left side of tray where tape meets the surface underneath with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371098075389385,
+            "end_ns": 1767371100765389385,
+            "narration": "Press loose portions of tape against surface underneath with both hands"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371100765389385,
+            "end_ns": 1767371102196389385,
+            "narration": "Press left hand against tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370813194000707,
+            "end_ns": 1767370814394000707,
+            "narration": "Press piece of tape onto paint tray with left hand thumb"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370817659000707,
+            "end_ns": 1767370817957000707,
+            "narration": "press ends together to make tape loop stick securely with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370819280000707,
+            "end_ns": 1767370820296000707,
+            "narration": "Press loop of tape against paint tray with left hand to make stick"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370826532000707,
+            "end_ns": 1767370828089000707,
+            "narration": "Press loop of tape against paint tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370828089000707,
+            "end_ns": 1767370828659000707,
+            "narration": "Press left hand fingers against tape with left hand to stick the tape securely against the tray"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370840385000707,
+            "end_ns": 1767370841277000707,
+            "narration": "Press loop of tape against tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370846163000707,
+            "end_ns": 1767370847256000706,
+            "narration": "Press loop of tape against tray with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370847256000706,
+            "end_ns": 1767370848196000707,
+            "narration": "Press loop of tape against tray again with left hand"
+          }
+        ],
+        "verb": "verb.press",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.pull.tape",
+        "label": "pull tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815597000707,
+            "end_ns": 1767370815892000707,
+            "narration": "Pull about 4 inches of tape from the tape roll using left hand"
+          }
+        ],
+        "verb": "verb.pull",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.push.contents",
+        "label": "push contents",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124295641926340,
+            "end_ns": 1767124297401926340,
+            "narration": "Push mud pan contents to one side of the pan with right hand"
+          }
+        ],
+        "verb": "verb.push",
+        "noun": "noun.contents"
+      },
+      {
+        "id": "pair.push.paste",
+        "label": "push paste",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123489706187085,
+            "end_ns": 1767123491406187085,
+            "narration": "Push paste against bottom of mud pan using scraper with right hand"
+          }
+        ],
+        "verb": "verb.push",
+        "noun": "noun.paste"
+      },
+      {
+        "id": "pair.remove.hand",
+        "label": "remove hand",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370817957000707,
+            "end_ns": 1767370818416000707,
+            "narration": "Remove right hand from loop of tape"
+          }
+        ],
+        "verb": "verb.remove",
+        "noun": "noun.hand"
+      },
+      {
+        "id": "pair.roll.tape",
+        "label": "roll tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370816994000707,
+            "end_ns": 1767370817659000707,
+            "narration": "Roll piece of tape into a loop using both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370824659000707,
+            "end_ns": 1767370825283000707,
+            "narration": "Roll piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370831440000707,
+            "end_ns": 1767370833249000707,
+            "narration": "Roll the piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838683000707,
+            "end_ns": 1767370839406000707,
+            "narration": "Roll piece of tape into a loop with both hands"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370844440000707,
+            "end_ns": 1767370845305000706,
+            "narration": "Roll piece of tape into a loop with both hands"
+          }
+        ],
+        "verb": "verb.roll",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.scrape.contents",
+        "label": "scrape contents",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126101183618768,
+            "end_ns": 1767126103443618768,
+            "narration": "Scrape mud pan contents from sides toward center with scraper using right hand"
+          }
+        ],
+        "verb": "verb.scrape",
+        "noun": "noun.contents"
+      },
+      {
+        "id": "pair.slide.scraper",
+        "label": "slide scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123512806187085,
+            "end_ns": 1767123514486187085,
+            "narration": "Slide wide body scraper through mud pan to gather paste onto scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123515816187085,
+            "end_ns": 1767123516576187085,
+            "narration": "Slide scraper along edge of mud pan to deposit paste back into mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123517616187085,
+            "end_ns": 1767123518266187085,
+            "narration": "Slide scraper along paste in mud pan to gather paste onto scraper with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123520286187085,
+            "end_ns": 1767123521366187085,
+            "narration": "Slide scraper along patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123523246187085,
+            "end_ns": 1767123524766187085,
+            "narration": "Slide scraper along ceiling patch with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123526646187085,
+            "end_ns": 1767123527836187085,
+            "narration": "Slide scraper along ceiling patch with right hand"
+          }
+        ],
+        "verb": "verb.slide",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.slide.tape",
+        "label": "slide tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371061752389385,
+            "end_ns": 1767371062784389385,
+            "narration": "Slide both hands toward bottom end of tape while pressing against plastic to stick the tape"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371063087389385,
+            "end_ns": 1767371065138389385,
+            "narration": "Slide left hand between top and bottom of tape to stick it securely"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371073214389385,
+            "end_ns": 1767371074220389385,
+            "narration": "Slide right hand upward along tape to stick it to surface"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371075625389385,
+            "end_ns": 1767371076296389385,
+            "narration": "Slide right hand downward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371076296389385,
+            "end_ns": 1767371077049389385,
+            "narration": "Slide right hand upward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371077967389385,
+            "end_ns": 1767371079043389385,
+            "narration": "Slide right hand downward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371079480389385,
+            "end_ns": 1767371080600389385,
+            "narration": "Slide left hand upward along tape to stick it to surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371087486389385,
+            "end_ns": 1767371087967389385,
+            "narration": "Slide both hands away from each other along tape to stick the tape to the surface underneath"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371088625389385,
+            "end_ns": 1767371089322389385,
+            "narration": "Slide right hand along right side of tape to stick it to surface underneath"
+          }
+        ],
+        "verb": "verb.slide",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.stand.unspecified",
+        "label": "stand unspecified",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122104013918218,
+            "end_ns": 1767122105776918218,
+            "narration": "Stand upright"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122122117918218,
+            "end_ns": 1767122123155918218,
+            "narration": "Stand upright"
+          }
+        ],
+        "verb": "verb.stand",
+        "noun": "noun.unspecified"
+      },
+      {
+        "id": "pair.stick.tape",
+        "label": "stick tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370833945000707,
+            "end_ns": 1767370835243000707,
+            "narration": "Stick loop of tape to tray with left hand"
+          }
+        ],
+        "verb": "verb.stick",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.tear.tape",
+        "label": "tear tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371053739389385,
+            "end_ns": 1767371054132389385,
+            "narration": "Tear 12 inches of tape from tape roll with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371068252389385,
+            "end_ns": 1767371068575389385,
+            "narration": "Tear the unrolled portion of the tape away from the roll with the left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371084328389385,
+            "end_ns": 1767371084701389385,
+            "narration": "Tear unrolled portion of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371092537389385,
+            "end_ns": 1767371092954389385,
+            "narration": "Tear unrolled portion of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371095106389385,
+            "end_ns": 1767371095784389385,
+            "narration": "Tear top half of tape away from bottom half with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370823594000707,
+            "end_ns": 1767370823939000707,
+            "narration": "Tear 4 inches of tape from the roll using left hand while keeping tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370830720000707,
+            "end_ns": 1767370830896000707,
+            "narration": "Tear 3 inches of tape from the roll using left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370838043000707,
+            "end_ns": 1767370838283000707,
+            "narration": "Tear 4 inches of tape from roll with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370843256000707,
+            "end_ns": 1767370843671000707,
+            "narration": "Tear 3 inches of tape from roll with left hand while holding roll steady with right hand"
+          }
+        ],
+        "verb": "verb.tear",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.tear_off.tape",
+        "label": "tear off tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370815892000707,
+            "end_ns": 1767370816345000707,
+            "narration": "Tear the 4 inches of tape off the roll using left hand while holding roll steady with right hand"
+          }
+        ],
+        "verb": "verb.tear_off",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.turn.head",
+        "label": "turn head",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123521996187085,
+            "end_ns": 1767123522536187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123525396187085,
+            "end_ns": 1767123526306187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123528816187085,
+            "end_ns": 1767123529476187085,
+            "narration": "Turn head to face ceiling while gathering more paste onto scraper"
+          }
+        ],
+        "verb": "verb.turn",
+        "noun": "noun.head"
+      },
+      {
+        "id": "pair.turn.pan",
+        "label": "turn pan",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124278171926340,
+            "end_ns": 1767124278941926340,
+            "narration": "Turn head to face mud pan"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126057183618768,
+            "end_ns": 1767126059083618768,
+            "narration": "Turn right to face mud pan"
+          }
+        ],
+        "verb": "verb.turn",
+        "noun": "noun.pan"
+      },
+      {
+        "id": "pair.turn.scraper",
+        "label": "turn scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123472286187085,
+            "end_ns": 1767123473216187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan using right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123473216187085,
+            "end_ns": 1767123474626187085,
+            "narration": "Turn scraper back to original orientation and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123474626187085,
+            "end_ns": 1767123476126187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123476126187085,
+            "end_ns": 1767123478286187085,
+            "narration": "Turn scraper back to original orientation and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123478286187085,
+            "end_ns": 1767123482126187085,
+            "narration": "Turn scraper orthogonally and continue mixing dry compound and water inside mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123533896187085,
+            "end_ns": 1767123534206187085,
+            "narration": "Turn scraper 90 degrees while parallel to ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123534876187085,
+            "end_ns": 1767123535276187085,
+            "narration": "Turn scraper back 90 degrees while parallel to ceiling with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123536466187085,
+            "end_ns": 1767123537180187085,
+            "narration": "Turn scraper 180 degrees while parallel to the ceiling with right hand"
+          }
+        ],
+        "verb": "verb.turn",
+        "noun": "noun.scraper"
+      },
+      {
+        "id": "pair.turn_off.faucet",
+        "label": "turn off faucet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467406187085,
+            "end_ns": 1767123467836187085,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123483786187085,
+            "end_ns": 1767123484256187085,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124282461926340,
+            "end_ns": 1767124282741926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124301251926340,
+            "end_ns": 1767124301821926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124327061926340,
+            "end_ns": 1767124327431926340,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070433618768,
+            "end_ns": 1767126070753618768,
+            "narration": "Turn off faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126092313618768,
+            "end_ns": 1767126092773618768,
+            "narration": "Turn off faucet with left hand"
+          }
+        ],
+        "verb": "verb.turn_off",
+        "noun": "noun.faucet"
+      },
+      {
+        "id": "pair.turn_on.faucet",
+        "label": "turn on faucet",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123467006187085,
+            "end_ns": 1767123467406187085,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123482896187085,
+            "end_ns": 1767123483776187085,
+            "narration": "Turn on faucet using handle with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124281701926340,
+            "end_ns": 1767124282461926340,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124300831926340,
+            "end_ns": 1767124301241926340,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124326291926340,
+            "end_ns": 1767124327061926340,
+            "narration": "Turn on faucet slightly with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126070143618768,
+            "end_ns": 1767126070433618768,
+            "narration": "Turn on faucet with right hand"
+          },
+          {
+            "episode_id": "episode-005",
+            "start_ns": 1767126091053618768,
+            "end_ns": 1767126092313618768,
+            "narration": "Turn on faucet with right hand"
+          }
+        ],
+        "verb": "verb.turn_on",
+        "noun": "noun.faucet"
+      },
+      {
+        "id": "pair.unroll.tape",
+        "label": "unroll tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371052385389385,
+            "end_ns": 1767371053739389385,
+            "narration": "Unroll about 12 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371067758389385,
+            "end_ns": 1767371068252389385,
+            "narration": "Unroll about 8 inches of tape with left hand while holding tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371083676389385,
+            "end_ns": 1767371084328389385,
+            "narration": "Unroll about 8 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-000",
+            "start_ns": 1767371091796389385,
+            "end_ns": 1767371092537389385,
+            "narration": "Unroll about 10 inches of tape from roll with left hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370822831000707,
+            "end_ns": 1767370823594000707,
+            "narration": "Unroll about 4 inches of tape from end of tape roll using left hand while keeping tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370829948000707,
+            "end_ns": 1767370830720000707,
+            "narration": "Unroll about 3 inches of tape from the roll using left hand while holding tape roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370836877000707,
+            "end_ns": 1767370838043000707,
+            "narration": "Unroll about 4 inches of tape with left hand while holding roll steady with right hand"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370842726000707,
+            "end_ns": 1767370843256000707,
+            "narration": "Unroll about 3 inches of tape with left hand while holding roll steady with right hand"
+          }
+        ],
+        "verb": "verb.unroll",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.unstick.hand",
+        "label": "unstick hand",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370820296000707,
+            "end_ns": 1767370822314000707,
+            "narration": "Unstick left hand from loop of tape with left hand while keeping the loop stuck against the paint tray"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370825283000707,
+            "end_ns": 1767370825846000707,
+            "narration": "Unstick right hand from loop of tape"
+          },
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370828659000707,
+            "end_ns": 1767370829397000707,
+            "narration": "Unstick left hand from tape with left hand"
+          }
+        ],
+        "verb": "verb.unstick",
+        "noun": "noun.hand"
+      },
+      {
+        "id": "pair.unstick.tape",
+        "label": "unstick tape",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-001",
+            "start_ns": 1767370841277000707,
+            "end_ns": 1767370841874000707,
+            "narration": "Unstick loop of tape from hand with left hand"
+          }
+        ],
+        "verb": "verb.unstick",
+        "noun": "noun.tape"
+      },
+      {
+        "id": "pair.wipe.brush",
+        "label": "wipe brush",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122099191918218,
+            "end_ns": 1767122100343918218,
+            "narration": "Wipe paint brush against edge of can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122100343918218,
+            "end_ns": 1767122101826918218,
+            "narration": "Wipe other side of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122101826918218,
+            "end_ns": 1767122102742918218,
+            "narration": "Wipe edge of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122102742918218,
+            "end_ns": 1767122104013918218,
+            "narration": "Wipe other edge of paint brush against can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122105776918218,
+            "end_ns": 1767122106649918218,
+            "narration": "Wipe bottom of paint brush against rim of paint can using right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122106649918218,
+            "end_ns": 1767122107810918218,
+            "narration": "Wipe side of paint brush against other paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122109962918218,
+            "end_ns": 1767122111971918218,
+            "narration": "Wipe side of paint brush against edge of other paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122111971918218,
+            "end_ns": 1767122113038918218,
+            "narration": "Wipe edge of paint brush against edge of the same paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122113038918218,
+            "end_ns": 1767122113759918218,
+            "narration": "Wipe other edge of paint brush against paint can with right hand"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122115598918218,
+            "end_ns": 1767122117352918218,
+            "narration": "Wipe side of paint brush against edge of paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122119471918218,
+            "end_ns": 1767122121106918218,
+            "narration": "Wipe side of paint brush against edge of paint can"
+          },
+          {
+            "episode_id": "episode-003",
+            "start_ns": 1767122121106918218,
+            "end_ns": 1767122122117918218,
+            "narration": "Wipe edge of paint brush against edge of paint can"
+          }
+        ],
+        "verb": "verb.wipe",
+        "noun": "noun.brush"
+      },
+      {
+        "id": "pair.wipe.scraper",
+        "label": "wipe scraper",
+        "definition": "",
+        "segments": [
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123504376187085,
+            "end_ns": 1767123505336187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123505336187085,
+            "end_ns": 1767123506656187085,
+            "narration": "Wipe other side of scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507126187085,
+            "end_ns": 1767123507606187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-002",
+            "start_ns": 1767123507856187085,
+            "end_ns": 1767123508346187085,
+            "narration": "Wipe scraper against edge of mud pan with right hand"
+          },
+          {
+            "episode_id": "episode-004",
+            "start_ns": 1767124352541926340,
+            "end_ns": 1767124353175926340,
+            "narration": "Wipe scraper against edge of mud pan"
+          }
+        ],
+        "verb": "verb.wipe",
+        "noun": "noun.scraper"
+      }
+    ]
+  }
+}

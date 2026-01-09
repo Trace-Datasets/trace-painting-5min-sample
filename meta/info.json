@@ -1,0 +1,15 @@
+{
+    "dataset_name": "trace-painting-5min-sample",
+    "dataset_version": "1.0",
+    "dataset_description": "trace-painting-5min-sample is an egocentric video dataset offering 5 minutes and 37 seconds of painting tasks spanning 10 trajectories across 6 episodes.",
+    "total_episodes": 6,
+    "total_duration_s": 337,
+    "total_bytes": 35253222708,
+    "files": {
+      "mcap": {
+        "local_path_template": "data/episode-{episode_id:03d}/episode-{episode_id:03d}.mcap",
+        "remote_path_template": "s3://trace-datasets/trace-painting-5min-sample/1.0/episode-{episode_id:03d}/episode-{episode_id:03d}.mcap"
+      }
+    }
+  }
+  
